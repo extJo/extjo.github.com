@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 큰 녀석의 세상
+title: Big brother's world
 email: josungyun6518@gmail.com
-description: 큰 사람이 큰 세상을 보는 블로그
+description: Copyright © 2017 - Sungyun Jo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https::/extjo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""

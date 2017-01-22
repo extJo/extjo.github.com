@@ -1,15 +1,10 @@
 ---
-layout: page
-title: About
+
+layout: page title: About
+
 permalink: /about/
----
+------------------
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+학교공부에 지쳐서 내가 정말로 무엇인가를 만들 수 있을까? 하다면서 삽질하다가 github 블로그 까지 오게되었네요...
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+기본적인것을 배우는것도 좋아하고 재밌어 하지만, 항상 응용하는것은 다른 이야기라고 생각하는 사람입니다. 최신기술에 관심이 많고 아이폰은 좋아하지 않지만 Swift로 iOS개발에 관심이 많은 이상한 사람입니다. 어플리케이션 개발에 관심이 많고, 앞으로는 Xamarin 과 Fuse 에 대해서도 공부하면서 포스트 할 계획입니다.
