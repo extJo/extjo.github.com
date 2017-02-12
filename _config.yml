@@ -21,7 +21,7 @@ url: "https::/extjo.github.io" # the base hostname & protocol for your site, e.g
 github_username: extJo
 
 # Build settings
-markdown: markdown
+markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
