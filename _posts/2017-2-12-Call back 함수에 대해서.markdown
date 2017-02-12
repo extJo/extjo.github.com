@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Call-back 함수에 대한 고찰"
+title: "Call-back 함수에 대해서"
 date: 2017-2-12 13:20:00 +0900
 categories: nodejs
-description: Call-back 함수에 대한 이야기..
+description: Call-back 함수에 대한 이야기
 permalink: /post/nodejs/2017/02/call-back-함수에-대한-고찰
 ---
 
